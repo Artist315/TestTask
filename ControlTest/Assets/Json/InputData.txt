@@ -1,0 +1,17 @@
+{
+  "deviceDataList":
+  [
+    {
+      "Name": "Analog1",
+	"X": 2,
+	"Y": 2,
+	"Z": 2
+    },
+    {
+      "Name": "Discrete1",
+	"X": -2,
+	"Y": 2,
+	"Z": -2
+    }
+  ]
+}

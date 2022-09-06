@@ -1,0 +1,19 @@
+{
+  "deviceDataList":
+  [
+    {
+	"Name": "Analog2_Created",
+	"PosX": 14.0,
+	"PosY": 0.0,
+	"PosZ": 12.0,
+	"Type": 1
+    },
+    {
+      "Name": "Discrete2_Create",
+	"PosX": -10.0,
+	"PosY": 0.0,
+	"PosZ": -12.0,
+	"Type": 2
+    }
+  ]
+}
